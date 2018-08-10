@@ -70,7 +70,7 @@ if __name__ == '__main__':
     df_rows_no_indices = [row[1] for row in df_rows]
 
     df_fixed = pd.DataFrame(df_rows_no_indices)
-    df_fixed.to_csv(path_or_buf='../../data/dataset/Spenser_1_7_subset0__fix_subset0__.tsv', sep='\t', index=None)
+    df_fixed.to_csv(path_or_buf='../../data/dataset/Spenser_1_7_subset0__fix.tsv', sep='\t', index=None)
 
     df_rows_with_no_match = pd.DataFrame(rows_with_no_match)  # постојат 4 вакви редици, коефициентите во овие редици
     # ќе бидат отстранети рачно
