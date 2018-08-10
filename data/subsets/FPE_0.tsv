@@ -1,0 +1,340 @@
+	CustomerID	Calendarday	month	PerformanceEvaluationPlanned	PerformanceEvaluationExecuted	PerformanceEvaluationAdHoc	TERRID	SAPECCSalesGroup	SAPECoeficient	APECoeficient	FPECoeficient	SAMEDAYVISIT	OVERDUE	UNDERDUE	OK	NOTOK	STATUS	V22	OVERDUEDAYS	TRESHOLD
+114	100000141	8/31/2017	9	1	1	 	Employee 43	Team 1	0	 	0	 	 	 	 	 	 	not ok	 	,15
+332	100000200	8/23/2017	8	1	1	 	Employee 43	Team 1	87,3897368421053	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+333	100000200	8/24/2017	 	 	 	 	 	 	 	72,9668333333333	0	 	 	 	 	 	 	not ok	 	,15
+1209	100000242	7/18/2017	7	1	1	 	Employee 48	Team 4	47,7576923076923	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+1210	100000242	7/19/2017	 	 	 	 	 	 	 	27,8884615384615	0	 	 	 	 	 	 	not ok	 	,15
+2937	100000353	8/23/2017	8	1	1	 	Employee 6	Team 8	32,075	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+2938	100000353	8/25/2017	 	 	 	 	 	 	 	20,5266666666667	0	 	 	 	 	 	 	not ok	 	,15
+8403	100000770	6/12/2017	6	1	1	 	Employee 25	Team 11	41,4408333333333	 	0	 	overdue	 	 	 	overdue	not ok	8	,15
+8405	100000770	6/20/2017	 	 	 	 	 	 	 	0	0	 	 	 	 	 	 	not ok	 	,15
+14548	100001232	7/24/2017	7	1	1	 	Employee 11	Team 9	58,9446666666667	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+14549	100001232	7/26/2017	 	 	 	 	 	 	 	46,9080666666667	0	 	 	 	 	 	 	not ok	 	,15
+17548	100001530	11/17/2017	11	1	1	 	Employee 20	Team 13	83,8	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+17549	100001530	11/18/2017	 	 	 	 	 	 	 	62,55	0	 	 	 	 	 	 	not ok	 	,15
+17941	100001596	8/9/2017	8	1	1	 	Employee 25	Team 11	91,1916666666667	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+17942	100001596	8/10/2017	 	 	 	 	 	 	 	67,9625	0	 	 	 	 	 	 	not ok	 	,15
+19956	100001815	7/11/2017	7	1	1	 	Employee 61	Team 7	72,575	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+19957	100001815	7/12/2017	 	 	 	 	 	 	 	5,34920634920635	0	 	 	 	 	 	 	not ok	 	,15
+20106	100001837	6/8/2017	6	1	1	 	Employee 33	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+20107	100001837	6/15/2017	6	1	1	 	Employee 33	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+20108	100001837	6/22/2017	6	1	1	 	Employee 33	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+20109	100001837	6/29/2017	6	1	1	 	Employee 33	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+26531	100002318	5/22/2017	5	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	ok	 	ok	ok	 	,15
+26532	100002318	5/23/2017	 	 	 	 	 	 	 	0	0	 	 	 	 	 	 	not ok	 	,15
+26533	100002318	5/29/2017	6	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+26535	100002318	6/12/2017	6	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+26801	100002351	5/4/2017	5	1	1	 	Employee 34	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+26802	100002351	5/18/2017	5	1	1	 	Employee 34	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+31085	100002678	7/19/2017	7	1	1	 	Employee 3	Team 10	0	 	0	 	 	 	ok	 	ok	ok	 	,15
+31086	100002678	7/20/2017	 	 	 	 	 	 	 	0	0	 	 	 	 	 	 	not ok	 	,15
+31098	100002678	12/6/2017	12	1	1	 	Employee 3	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+33928	100003078	11/29/2017	12	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+33933	100003080	5/8/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+33934	100003080	5/15/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	ok	 	ok	ok	 	,15
+33935	100003080	5/16/2017	 	 	 	 	 	 	 	52,0857142857143	0	 	 	 	 	 	 	not ok	 	,15
+34989	100003195	7/7/2017	7	1	1	 	Employee 71	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+34990	100003195	7/21/2017	7	1	1	 	Employee 71	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+34991	100003195	8/4/2017	8	1	1	 	Employee 71	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+34992	100003195	8/18/2017	8	1	1	 	Employee 71	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+34993	100003195	9/1/2017	9	1	1	 	Employee 71	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+37206	100003416	5/8/2017	5	1	1	 	Employee 72	Team 3	69,6097619047619	 	0	 	overdue	 	 	 	overdue	not ok	15	,15
+37209	100003416	5/23/2017	 	 	 	 	 	 	 	49,7459523809524	0	 	 	 	 	 	 	not ok	 	,15
+37868	100003467	5/8/2017	5	1	1	 	Employee 74	Team 3	56,7875	 	0	 	overdue	 	 	 	overdue	not ok	8	,15
+37870	100003467	5/16/2017	 	 	 	 	 	 	 	46,2	0	 	 	 	 	 	 	not ok	 	,15
+38807	100003569	5/5/2017	5	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+38808	100003569	5/12/2017	5	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+38809	100003569	5/19/2017	5	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+38810	100003569	5/26/2017	5	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+38812	100003569	6/9/2017	6	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	ok	 	ok	ok	 	,15
+38813	100003569	6/10/2017	 	 	 	 	 	 	 	84,4	0	 	 	 	 	 	 	not ok	 	,15
+38923	100003581	5/8/2017	5	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+38924	100003581	5/15/2017	5	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+38925	100003581	5/22/2017	5	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+38926	100003581	5/29/2017	6	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+38927	100003581	6/5/2017	6	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+38928	100003581	6/12/2017	6	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+38929	100003581	6/19/2017	6	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+38931	100003581	7/3/2017	7	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+39021	100003592	5/8/2017	5	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+39022	100003592	5/22/2017	5	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+39508	100003625	5/12/2017	5	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+39509	100003625	5/26/2017	5	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+39510	100003625	6/9/2017	6	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+39511	100003625	6/23/2017	6	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+44107	100003972	7/18/2017	7	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+44108	100003972	7/25/2017	7	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+44310	100004012	7/6/2017	7	1	1	 	Employee 34	Team 6	87,3	 	0	 	overdue	 	 	 	overdue	not ok	15	,15
+44311	100004012	7/21/2017	 	 	 	 	 	 	 	27	0	 	 	 	 	 	 	not ok	 	,15
+44424	100004039	7/24/2017	7	1	1	 	Employee 35	Team 6	77,342	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+44425	100004039	7/25/2017	 	 	 	 	 	 	 	65,1206666666667	0	 	 	 	 	 	 	not ok	 	,15
+44796	100004104	9/12/2017	9	1	1	 	Employee 39	Team 6	62,75	 	0	 	overdue	 	 	 	overdue	not ok	9	,15
+44798	100004104	9/21/2017	 	 	 	 	 	 	 	46,6607142857143	0	 	 	 	 	 	 	not ok	 	,15
+45240	100004152	6/7/2017	6	1	1	 	Employee 41	Team 1	0	 	0	 	overdue	 	 	 	overdue	ok	8	,15
+45242	100004152	6/15/2017	 	 	 	 	 	 	 	43,0604761904762	0	 	 	 	 	 	 	not ok	 	,15
+45904	100004180	8/16/2017	8	1	1	 	Employee 44	Team 1	71,2186424242424	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+45905	100004180	8/17/2017	 	 	 	 	 	 	 	59,0047333333333	0	 	 	 	 	 	 	not ok	 	,15
+48210	100004353	5/10/2017	5	1	1	 	Employee 57	Team 7	0	 	0	 	overdue	 	 	 	overdue	ok	3	,15
+48211	100004353	5/13/2017	 	 	 	 	 	 	 	5,57	0	 	 	 	 	 	 	not ok	 	,15
+48213	100004353	6/7/2017	6	1	1	 	Employee 57	Team 7	0	 	0	 	 	 	 	 	 	not ok	 	,15
+48214	100004353	6/21/2017	6	1	1	 	Employee 57	Team 7	0	 	0	 	 	 	 	 	 	not ok	 	,15
+53572	100004931	11/15/2017	11	1	1	 	Employee 5	Team 8	39,0715757575758	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+53573	100004931	11/17/2017	 	 	 	 	 	 	 	31,9835757575758	0	 	 	 	 	 	 	not ok	 	,15
+54108	100004985	5/17/2017	5	1	1	 	Employee 38	Team 6	68,4	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+54109	100004985	5/18/2017	 	 	 	 	 	 	 	54,45	0	 	 	 	 	 	 	not ok	 	,15
+56920	100005334	8/14/2017	8	1	1	 	Employee 67	Team 12	45	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+56921	100005334	8/16/2017	 	 	 	 	 	 	 	27	0	 	 	 	 	 	 	not ok	 	,15
+58060	100005450	10/16/2017	10	1	1	 	Employee 63	Team 12	96,8222222222222	 	0	 	overdue	 	 	 	overdue	not ok	4	,15
+58061	100005450	10/20/2017	 	 	 	 	 	 	 	76,7079365079365	0	 	 	 	 	 	 	not ok	 	,15
+62609	100005858	10/18/2017	10	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+63090	100005941	5/3/2017	5	1	1	 	Employee 57	Team 7	0	 	0	 	 	 	 	 	 	not ok	 	,15
+63091	100005941	5/17/2017	5	1	1	 	Employee 57	Team 7	0	 	0	 	 	 	 	 	 	not ok	 	,15
+63093	100005941	6/14/2017	6	1	1	 	Employee 57	Team 7	0	 	0	 	 	 	 	 	 	not ok	 	,15
+63129	100005944	5/17/2017	5	1	1	 	Employee 57	Team 7	0	 	0	 	 	 	 	 	 	not ok	 	,15
+63131	100005944	6/14/2017	6	1	1	 	Employee 57	Team 7	0	 	0	 	 	 	 	 	 	not ok	 	,15
+64271	100006133	5/15/2017	5	1	1	 	Employee 67	Team 12	73,8305	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+64272	100006133	5/17/2017	 	 	 	 	 	 	 	58,7035	0	 	 	 	 	 	 	not ok	 	,15
+64815	100006239	8/24/2017	8	1	1	 	Employee 6	Team 8	72	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+64816	100006239	8/25/2017	 	 	 	 	 	 	 	19,8	0	 	 	 	 	 	 	not ok	 	,15
+73561	100007356	6/15/2017	6	1	1	 	Employee 33	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+73562	100007356	6/29/2017	6	1	1	 	Employee 33	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+74326	100007537	9/19/2017	9	1	1	 	Employee 10	Team 9	88,1	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+74327	100007537	9/20/2017	 	 	 	 	 	 	 	73,9769230769231	0	 	 	 	 	 	 	not ok	 	,15
+77346	100008019	7/6/2017	7	1	1	 	Employee 70	Team 3	72,9	 	0	 	overdue	 	 	 	overdue	not ok	15	,15
+77348	100008019	7/21/2017	 	 	 	 	 	 	 	42,75	0	 	 	 	 	 	 	not ok	 	,15
+78001	100008129	7/11/2017	7	1	1	 	Employee 61	Team 7	63,6916666666667	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+78002	100008129	7/12/2017	 	 	 	 	 	 	 	17,0241666666667	0	 	 	 	 	 	 	not ok	 	,15
+78918	100008210	7/17/2017	7	1	1	 	Employee 54	Team 2	80,1	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+78919	100008210	7/19/2017	 	 	 	 	 	 	 	27	0	 	 	 	 	 	 	not ok	 	,15
+79916	100008340	6/28/2017	6	1	1	 	Employee 62	Team 7	74,8	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+79917	100008340	6/29/2017	 	 	 	 	 	 	 	63,45	0	 	 	 	 	 	 	not ok	 	,15
+79922	100008340	9/6/2017	9	1	1	 	Employee 62	Team 7	81	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+79923	100008340	9/7/2017	 	 	 	 	 	 	 	63,45	0	 	 	 	 	 	 	not ok	 	,15
+80105	100008359	9/6/2017	9	1	1	 	Employee 62	Team 7	74,0716666666667	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+80106	100008359	9/7/2017	 	 	 	 	 	 	 	20	0	 	 	 	 	 	 	not ok	 	,15
+81557	100008587	5/16/2017	5	1	1	 	Employee 51	Team 2	38,25	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+81558	100008587	5/17/2017	 	 	 	 	 	 	 	0	0	 	 	 	 	 	 	not ok	 	,15
+87602	100009514	5/3/2017	5	1	1	 	Employee 11	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+87603	100009514	5/17/2017	5	1	1	 	Employee 11	Team 9	0	 	0	 	 	 	ok	 	ok	ok	 	,15
+87604	100009514	5/18/2017	 	 	 	 	 	 	 	54,1041666666667	0	 	 	 	 	 	 	not ok	 	,15
+88435	100009633	5/30/2017	6	1	1	 	Employee 69	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+88436	100009633	6/13/2017	6	1	1	 	Employee 69	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+89375	100009772	9/4/2017	9	1	1	 	Employee 52	Team 2	51	 	0	 	overdue	 	 	 	overdue	not ok	15	,15
+89377	100009772	9/19/2017	 	 	 	 	 	 	 	29,3423076923077	0	 	 	 	 	 	 	not ok	 	,15
+91991	100011241	7/28/2017	7	 	 	1	Employee 26	Team 5	83,85	36,8333333333333	0	same day visit	 	 	 	 	same day visit	not ok	 	,15
+96159	100013929	6/5/2017	6	1	1	 	Employee 67	Team 12	51,772	 	0	 	overdue	 	 	 	overdue	not ok	16	,15
+96161	100013929	6/21/2017	 	 	 	 	 	 	 	38,3776666666667	0	 	 	 	 	 	 	not ok	 	,15
+98982	100016905	7/5/2017	7	1	1	 	Employee 73	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+100463	100017157	5/2/2017	5	1	1	 	Employee 10	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+104863	100017786	5/8/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+104864	100017786	5/15/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	ok	 	ok	ok	 	,15
+104865	100017786	5/16/2017	 	 	 	 	 	 	 	77,8357142857143	0	 	 	 	 	 	 	not ok	 	,15
+106106	100017894	5/4/2017	5	1	1	 	Employee 34	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+106107	100017894	5/11/2017	5	1	1	 	Employee 34	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+106108	100017894	5/18/2017	5	1	1	 	Employee 34	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+106109	100017894	5/25/2017	5	1	1	 	Employee 34	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+106115	100017894	7/20/2017	7	1	1	 	Employee 34	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+106116	100017894	8/3/2017	8	1	1	 	Employee 34	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+106118	100017894	8/31/2017	9	1	1	 	Employee 34	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+106119	100017894	9/14/2017	9	1	1	 	Employee 34	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+106120	100017894	9/28/2017	9	1	1	 	Employee 34	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+106619	100017970	7/24/2017	7	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+106621	100017970	8/21/2017	8	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+106622	100017970	9/4/2017	9	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+106623	100017970	9/18/2017	9	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	ok	 	ok	ok	 	,15
+106624	100017970	9/20/2017	 	 	 	 	 	 	 	70,8820666666667	0	 	 	 	 	 	 	not ok	 	,15
+107178	100018055	5/10/2017	5	1	1	 	Employee 24	Team 11	0	 	0	 	 	 	ok	 	ok	ok	 	,15
+107179	100018055	5/11/2017	 	 	 	 	 	 	 	0	0	 	 	 	 	 	 	not ok	 	,15
+107181	100018055	6/7/2017	6	1	1	 	Employee 24	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+107182	100018055	6/21/2017	6	1	1	 	Employee 24	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+108158	100018254	6/23/2017	6	1	1	 	Employee 16	Team 8	78,8153846153846	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+108159	100018254	6/24/2017	 	 	 	 	 	 	 	62,7307692307692	0	 	 	 	 	 	 	not ok	 	,15
+109007	100018598	8/1/2017	8	1	1	 	Employee 3	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109112	100018726	5/11/2017	5	1	1	 	Employee 11	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109113	100018726	5/25/2017	5	1	1	 	Employee 11	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109114	100018726	6/8/2017	6	1	1	 	Employee 11	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109115	100018726	6/22/2017	6	1	1	 	Employee 11	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109457	100019189	5/4/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109458	100019189	5/11/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	ok	 	ok	ok	 	,15
+109459	100019189	5/12/2017	 	 	 	 	 	 	 	5,33928571428572	0	 	 	 	 	 	 	not ok	 	,15
+109460	100019189	5/18/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109461	100019189	5/25/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109462	100019189	6/1/2017	6	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109463	100019189	6/8/2017	6	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109465	100019189	6/22/2017	6	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109466	100019189	6/29/2017	6	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109468	100019203	5/8/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109469	100019203	5/15/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109470	100019203	5/22/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109471	100019203	5/29/2017	6	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109472	100019203	6/5/2017	6	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109474	100019203	6/19/2017	6	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109489	100019289	5/9/2017	5	1	1	 	Employee 24	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109490	100019289	5/23/2017	5	1	1	 	Employee 24	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+109491	100019289	6/6/2017	6	1	1	 	Employee 24	Team 11	0	 	0	 	overdue	 	 	 	overdue	ok	15	,15
+109493	100019289	6/21/2017	 	 	 	 	 	 	 	0	0	 	 	 	 	 	 	not ok	 	,15
+111032	100021573	11/13/2017	11	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+111033	100021573	11/27/2017	12	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+111696	100021677	5/10/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+111698	100021677	6/7/2017	6	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+111699	100021677	6/21/2017	6	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+111895	100021777	8/11/2017	8	1	1	 	Employee 55	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+112103	100021810	5/8/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+112104	100021810	5/15/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+112105	100021810	5/22/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+112108	100021810	6/12/2017	6	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+112109	100021810	6/19/2017	6	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+114729	100022097	11/9/2017	11	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+114730	100022097	11/23/2017	11	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+115821	100022200	6/13/2017	6	1	1	 	Employee 54	Team 2	49,95	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+115822	100022200	6/14/2017	 	 	 	 	 	 	 	29,25	0	 	 	 	 	 	 	not ok	 	,15
+116160	100022226	7/27/2017	7	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+116161	100022226	8/10/2017	8	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+116162	100022226	8/24/2017	8	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+117016	100022337	10/12/2017	10	1	1	 	Employee 61	Team 7	0	 	0	 	 	 	 	 	 	not ok	 	,15
+117017	100022337	10/26/2017	10	1	1	 	Employee 61	Team 7	0	 	0	 	 	 	 	 	 	not ok	 	,15
+117138	100022354	11/30/2017	12	1	1	 	Employee 23	Team 11	48,8651333333333	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+117139	100022354	12/1/2017	 	 	 	 	 	 	 	41,0683333333333	0	 	 	 	 	 	 	not ok	 	,15
+118272	100022482	7/27/2017	7	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+118273	100022482	8/10/2017	8	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+118274	100022482	8/24/2017	8	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+118303	100022486	5/15/2017	5	1	1	 	Employee 67	Team 12	86,5	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+118304	100022486	5/17/2017	 	 	 	 	 	 	 	71,1	0	 	 	 	 	 	 	not ok	 	,15
+118308	100022486	7/10/2017	7	1	1	 	Employee 67	Team 12	72	 	0	 	overdue	 	 	 	overdue	not ok	15	,15
+118310	100022486	7/25/2017	 	 	 	 	 	 	 	58,5	0	 	 	 	 	 	 	not ok	 	,15
+118511	100022502	9/6/2017	9	1	1	 	Employee 61	Team 7	80,886	 	0	 	overdue	 	 	 	overdue	not ok	15	,15
+118513	100022502	9/21/2017	 	 	 	 	 	 	 	38,9576666666667	0	 	 	 	 	 	 	not ok	 	,15
+119778	100022649	10/31/2017	11	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+119851	100022655	10/16/2017	10	1	1	 	Employee 16	Team 8	66,1916666666667	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+119852	100022655	10/17/2017	 	 	 	 	 	 	 	42,7191666666667	0	 	 	 	 	 	 	not ok	 	,15
+119990	100022667	7/31/2017	8	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+120435	100022704	9/4/2017	9	1	1	 	Employee 16	Team 8	25,4421818181818	 	0	 	overdue	 	 	 	overdue	not ok	16	,15
+120437	100022704	9/20/2017	 	 	 	 	 	 	 	19,8308484848485	0	 	 	 	 	 	 	not ok	 	,15
+121423	100022817	8/3/2017	8	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+121424	100022817	8/17/2017	8	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+121426	100022817	9/14/2017	9	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+121501	100022822	11/28/2017	12	1	1	 	Employee 23	Team 11	64,5576	 	0	 	overdue	 	 	 	overdue	not ok	15	,15
+121503	100022822	12/13/2017	 	 	 	 	 	 	 	42,2382666666667	0	 	 	 	 	 	 	not ok	 	,15
+121955	100022871	5/11/2017	5	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+122137	100022887	9/6/2017	9	1	1	 	Employee 61	Team 7	82,0456666666667	 	0	 	overdue	 	 	 	overdue	not ok	15	,15
+122139	100022887	9/21/2017	 	 	 	 	 	 	 	34,2071333333333	0	 	 	 	 	 	 	not ok	 	,15
+122251	100022895	9/4/2017	9	1	1	 	Employee 10	Team 9	61,6716666666667	 	0	 	overdue	 	 	 	overdue	not ok	16	,15
+122254	100022895	9/20/2017	 	 	 	 	 	 	 	28,129	0	 	 	 	 	 	 	not ok	 	,15
+122545	100022913	11/28/2017	12	1	1	 	Employee 23	Team 11	69,1908	 	0	 	overdue	 	 	 	overdue	not ok	15	,15
+122547	100022913	12/13/2017	 	 	 	 	 	 	 	55,5542666666667	0	 	 	 	 	 	 	not ok	 	,15
+122704	100022931	6/19/2017	6	1	1	 	Employee 24	Team 11	57,0888181818182	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+122705	100022931	6/21/2017	 	 	 	 	 	 	 	43,1638181818182	0	 	 	 	 	 	 	not ok	 	,15
+122917	100022948	5/3/2017	5	1	1	 	Employee 8	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+122918	100022948	5/10/2017	5	1	1	 	Employee 8	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+122919	100022948	5/17/2017	5	1	1	 	Employee 8	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+122921	100022948	5/31/2017	6	1	1	 	Employee 8	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+122922	100022948	6/7/2017	6	1	1	 	Employee 8	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+122923	100022948	6/14/2017	6	1	1	 	Employee 8	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+122924	100022948	6/21/2017	6	1	1	 	Employee 8	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123039	100022963	5/8/2017	5	1	1	 	Employee 11	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123040	100022963	5/15/2017	5	1	1	 	Employee 11	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123041	100022963	5/22/2017	5	1	1	 	Employee 11	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123042	100022963	5/29/2017	6	1	1	 	Employee 11	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123044	100022963	6/6/2017	6	1	1	 	Employee 11	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123045	100022963	6/12/2017	6	1	1	 	Employee 11	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123046	100022963	6/19/2017	6	1	1	 	Employee 11	Team 9	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123216	100022984	6/21/2017	6	1	1	 	Employee 23	Team 11	68,5341666666667	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+123217	100022984	6/23/2017	 	 	 	 	 	 	 	29,0096666666667	0	 	 	 	 	 	 	not ok	 	,15
+123547	100023011	5/12/2017	5	1	1	 	Employee 33	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123548	100023011	5/26/2017	5	1	1	 	Employee 33	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123549	100023011	6/9/2017	6	1	1	 	Employee 33	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123550	100023011	6/23/2017	6	1	1	 	Employee 33	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123989	100023054	7/20/2017	7	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123990	100023054	8/3/2017	8	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123991	100023054	8/17/2017	8	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123993	100023054	9/14/2017	9	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+123994	100023054	9/28/2017	9	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+124657	100023099	5/16/2017	5	1	1	 	Employee 25	Team 11	44,9523809523809	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+124658	100023099	5/18/2017	 	 	 	 	 	 	 	36,5238095238095	0	 	 	 	 	 	 	not ok	 	,15
+125203	100023137	5/10/2017	5	1	1	 	Employee 72	Team 3	0	 	0	 	 	 	ok	 	ok	ok	 	,15
+125204	100023137	5/11/2017	 	 	 	 	 	 	 	70,0846666666667	0	 	 	 	 	 	 	not ok	 	,15
+125206	100023137	6/7/2017	6	1	1	 	Employee 72	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+125335	100023149	5/30/2017	6	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+125336	100023149	6/6/2017	6	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+125337	100023149	6/13/2017	6	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+125338	100023149	6/20/2017	6	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+125340	100023149	7/4/2017	7	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+125628	100023169	5/11/2017	5	1	1	 	Employee 46	Team 4	51,1894230769231	 	0	 	overdue	 	 	 	overdue	not ok	8	,15
+125630	100023169	5/19/2017	 	 	 	 	 	 	 	14,1457692307692	0	 	 	 	 	 	 	not ok	 	,15
+126264	100023215	5/15/2017	5	1	1	 	Employee 49	Team 4	31,9875	 	0	 	overdue	 	 	 	overdue	not ok	8	,15
+126266	100023215	5/23/2017	 	 	 	 	 	 	 	25,5	0	 	 	 	 	 	 	not ok	 	,15
+126712	100023245	6/13/2017	6	1	1	 	Employee 54	Team 2	85,5	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+126713	100023245	6/14/2017	 	 	 	 	 	 	 	36	0	 	 	 	 	 	 	not ok	 	,15
+126990	100023270	5/11/2017	 	 	 	 	 	 	 	9	0	 	 	underdue	 	 	underdue	not ok	 	,15
+126991	100023270	5/23/2017	5	1	1	 	Employee 22	Team 13	0	 	0	 	 	 	 	 	 	not ok	 	,15
+126993	100023270	6/20/2017	6	1	1	 	Employee 22	Team 13	0	 	0	 	 	 	 	 	 	not ok	 	,15
+127100	100023281	8/16/2017	8	1	1	 	Employee 65	Team 12	73,0497090909091	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+127101	100023281	8/18/2017	 	 	 	 	 	 	 	47,5060496969697	0	 	 	 	 	 	 	not ok	 	,15
+127538	100023330	8/23/2017	8	1	1	 	Employee 43	Team 1	81,3	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+127539	100023330	8/24/2017	 	 	 	 	 	 	 	68	0	 	 	 	 	 	 	not ok	 	,15
+131564	100023610	11/30/2017	12	1	1	 	Employee 21	Team 13	81,1	 	0	 	overdue	 	 	 	overdue	not ok	16	,15
+131566	100023610	12/16/2017	 	 	 	 	 	 	 	65,9714285714286	0	 	 	 	 	 	 	not ok	 	,15
+132068	100023638	5/23/2017	5	1	1	 	Employee 39	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+132070	100023638	6/20/2017	6	1	1	 	Employee 39	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+134441	100023767	7/27/2017	7	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+134442	100023767	8/10/2017	8	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+134443	100023767	8/24/2017	8	1	1	 	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+134447	100023767	10/5/2017	10	 	 	1	Employee 35	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+134555	100023775	5/23/2017	5	1	1	 	Employee 48	Team 4	0	 	0	 	 	 	 	 	 	not ok	 	,15
+136050	100023857	7/10/2017	7	1	1	 	Employee 37	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+136145	100023862	7/24/2017	7	1	1	 	Employee 35	Team 6	67,6	 	0	 	 	 	 	not ok	not ok	not ok	 	,15
+136146	100023862	7/25/2017	 	 	 	 	 	 	 	30,6	0	 	 	 	 	 	 	not ok	 	,15
+136675	100023905	6/20/2017	6	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+136678	100023905	7/25/2017	7	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+136679	100023905	8/7/2017	8	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+136680	100023905	8/21/2017	8	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+136682	100023905	9/18/2017	9	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+136683	100023905	10/2/2017	10	1	1	 	Employee 23	Team 11	0	 	0	 	overdue	 	 	 	overdue	ok	8	,15
+136684	100023905	10/10/2017	 	 	 	 	 	 	 	0	0	 	 	 	 	 	 	not ok	 	,15
+136685	100023905	10/16/2017	10	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+136686	100023905	10/30/2017	11	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+136687	100023905	11/13/2017	11	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+136688	100023905	11/27/2017	12	1	1	 	Employee 23	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137131	100023941	7/10/2017	7	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137132	100023941	7/17/2017	7	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137133	100023941	7/24/2017	7	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137134	100023941	7/31/2017	8	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137135	100023941	8/7/2017	8	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137136	100023941	8/14/2017	8	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137137	100023941	8/21/2017	8	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137139	100023941	9/4/2017	9	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137140	100023941	9/11/2017	9	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137141	100023941	9/18/2017	9	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137142	100023941	9/25/2017	9	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137143	100023941	10/2/2017	10	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137144	100023941	10/9/2017	10	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137145	100023941	10/16/2017	10	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137147	100023941	10/30/2017	11	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137149	100023941	11/13/2017	11	1	1	 	Employee 32	Team 10	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137440	100023969	11/24/2017	11	1	1	 	Employee 22	Team 13	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137516	100023974	7/13/2017	7	1	1	 	Employee 67	Team 12	72,912	 	0	 	overdue	 	 	 	overdue	not ok	15	,15
+137518	100023974	7/28/2017	 	 	 	 	 	 	 	59,1465	0	 	 	 	 	 	 	not ok	 	,15
+137538	100023976	11/6/2017	11	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+137539	100023976	11/20/2017	11	1	1	 	Employee 70	Team 3	0	 	0	 	 	 	 	 	 	not ok	 	,15
+138295	100024036	8/4/2017	8	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+138296	100024036	8/11/2017	8	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+138297	100024036	8/18/2017	8	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+138298	100024036	8/25/2017	8	1	1	 	Employee 40	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+138483	100024051	8/14/2017	8	1	1	 	Employee 24	Team 11	0	 	0	 	 	 	 	 	 	not ok	 	,15
+138511	100024054	8/16/2017	8	1	1	 	Employee 9	Team 9	0	 	0	 	 	 	ok	 	ok	ok	 	,15
+138512	100024054	8/17/2017	 	 	 	 	 	 	 	2,16666666666667	0	 	 	 	 	 	 	not ok	 	,15
+138567	100024059	8/15/2017	8	1	1	 	Employee 57	Team 7	0	 	0	 	 	 	 	 	 	not ok	 	,15
+138891	100024090	8/30/2017	9	1	1	 	Employee 43	Team 1	0	 	0	 	 	 	 	 	 	not ok	 	,15
+138892	100024090	9/6/2017	9	1	1	 	Employee 43	Team 1	0	 	0	 	 	 	 	 	 	not ok	 	,15
+138893	100024090	9/13/2017	9	1	1	 	Employee 43	Team 1	0	 	0	 	 	 	 	 	 	not ok	 	,15
+138894	100024090	9/20/2017	9	1	1	 	Employee 43	Team 1	0	 	0	 	 	 	 	 	 	not ok	 	,15
+138895	100024090	9/27/2017	9	1	1	 	Employee 43	Team 1	0	 	0	 	 	 	 	 	 	not ok	 	,15
+138896	100024090	10/4/2017	10	1	1	 	Employee 43	Team 1	0	 	0	 	 	 	 	 	 	not ok	 	,15
+138898	100024090	10/18/2017	10	1	1	 	Employee 43	Team 1	0	 	0	 	 	 	ok	 	ok	ok	 	,15
+138899	100024090	10/19/2017	 	 	 	 	 	 	 	23,4613636363636	0	 	 	 	 	 	 	not ok	 	,15
+138900	100024090	10/25/2017	10	1	1	 	Employee 43	Team 1	0	 	0	 	 	 	 	 	 	not ok	 	,15
+139193	100024130	9/26/2017	9	1	1	 	Employee 34	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+139194	100024130	10/3/2017	10	1	1	 	Employee 34	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+139288	100024149	10/3/2017	10	1	1	 	Employee 39	Team 6	0	 	0	 	 	 	 	 	 	not ok	 	,15
+139378	100024164	11/2/2017	11	1	1	 	Employee 21	Team 13	58,9380952380952	 	0	 	overdue	 	 	 	overdue	not ok	9	,15
+139379	100024164	11/11/2017	 	 	 	 	 	 	 	36,8095238095238	0	 	 	 	 	 	 	not ok	 	,15

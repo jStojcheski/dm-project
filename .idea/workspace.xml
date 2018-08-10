@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af4d4843-eef9-44b2-88c5-3d99e30441c6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/cleaning/fix_subset0__inconsistencies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/01_clean_1_month-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/01_clean_1_month-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/01_clean_2_employee-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/01_clean_2_employee-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/01_clean_3_team-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/01_clean_3_team-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/01_clean_4_calendar-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/01_clean_4_calendar-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/01_clean_5_standardize_coefficients-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/01_clean_5_standardize_coefficients-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/01_clean_6_SAPE_APE_FPE_string_to_float-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/01_clean_6_SAPE_APE_FPE_string_to_float-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/01_clean_7_remove_V22_TRESHOLD_attributes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/01_clean_7_remove_V22_TRESHOLD_attributes-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/02_check_coefficient_values_consistency-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/02_check_coefficient_values_consistency-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/02_check_consistency_in_coefficients_validation-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/02_check_consistency_in_coefficients_validation-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/02_clean_feature_vectors-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/02_clean_feature_vectors-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/02_extract_feature_vectors-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/02_extract_feature_vectors-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/02_extract_performance_evaluation_subsets-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/02_extract_performance_evaluation_subsets-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/02_extract_possibly_redundant_data-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/02_extract_possibly_redundant_data-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/02_visits_per_445_month-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/02_visits_per_445_month-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/.ipynb_checkpoints/dm_project-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/dm_project-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/01_clean_1_month.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_clean_1_month.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/01_clean_2_employee.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_clean_2_employee.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/01_clean_3_team.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_clean_3_team.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/01_clean_4_calendar.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_clean_4_calendar.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/01_clean_5_standardize_coefficients.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_clean_5_standardize_coefficients.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/01_clean_6_SAPE_APE_FPE_string_to_float.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_clean_6_SAPE_APE_FPE_string_to_float.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/01_clean_7_remove_V22_TRESHOLD_attributes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_clean_7_remove_V22_TRESHOLD_attributes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/02_check_coefficient_values_consistency.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/02_check_coefficient_values_consistency.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/02_check_consistency_in_coefficients_validation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/02_check_consistency_in_coefficients_validation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/02_clean_feature_vectors.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/02_clean_feature_vectors.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/02_extract_feature_vectors.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/02_extract_feature_vectors.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/02_extract_performance_evaluation_subsets.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/02_extract_performance_evaluation_subsets.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/02_extract_possibly_redundant_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/02_extract_possibly_redundant_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/02_visits_per_445_month.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/02_visits_per_445_month.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dataset/.~lock.Feature_vectors_customer_month_cleaned.tsv#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dataset/Feature_vectors_by_customerID.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Feature_vectors_by_customerID.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dataset/Feature_vectors_by_customerID_and_month.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Feature_vectors_by_customerID_and_month.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dataset/Feature_vectors_customer_month_cleaned.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Feature_vectors_customer_month_cleaned.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dataset/Feature_vectors_customer_month_normalized.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Feature_vectors_customer_month_normalized.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dataset/Spenser_0.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Spenser_0.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dataset/Spenser_1.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Spenser_1.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dataset/Spenser_1_1_month.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Spenser_1_1_month.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dataset/Spenser_1_2_terrid.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Spenser_1_2_terrid.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dataset/Spenser_1_3_team.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Spenser_1_3_team.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dataset/Spenser_1_4_calendar.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Spenser_1_4_calendar.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dataset/Spenser_1_5_standardize_coefficients.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Spenser_1_5_standardize_coefficients.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dataset/Spenser_1_6_str_to_float_coefficients.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Spenser_1_6_str_to_float_coefficients.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dataset/Spenser_1_7_remove_v22_treshold.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Spenser_1_7_remove_v22_treshold.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dataset/Spenser_2_visits_per_445_month.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Spenser_2_visits_per_445_month.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/dm_project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/dm_project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/Customers_w_executed_visits_and_no_sape.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/Customers_w_executed_visits_and_no_sape.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/FPE_0.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/FPE_0.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/PEPlanned_0.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/PEPlanned_0.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/PerformanceEvaluation/0_n_1.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/PerformanceEvaluation/0_n_1.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/PerformanceEvaluation/0_n_n.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/PerformanceEvaluation/0_n_n.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/PerformanceEvaluation/1_1_1.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/PerformanceEvaluation/1_1_1.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/PerformanceEvaluation/1_1_n.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/PerformanceEvaluation/1_1_n.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/PerformanceEvaluation/1_n_1.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/PerformanceEvaluation/1_n_1.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/PerformanceEvaluation/1_n_n.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/PerformanceEvaluation/1_n_n.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/PerformanceEvaluation/n_n_1.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/PerformanceEvaluation/n_n_1.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/PerformanceEvaluation/n_n_2.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/PerformanceEvaluation/n_n_2.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/PerformanceEvaluation/n_n_n.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/PerformanceEvaluation/n_n_n.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/PossiblyRedundantData/objects_w_no_executed_visits.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/PossiblyRedundantData/objects_w_no_executed_visits.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/PossiblyRedundantData/objects_w_no_planned_visits.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/PossiblyRedundantData/objects_w_no_planned_visits.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/PossiblyRedundantData/objects_w_no_val_nor_executed.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/PossiblyRedundantData/objects_w_no_val_nor_executed.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/PossiblyRedundantData/objects_w_no_val_nor_executed_nor_adhoc.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/PossiblyRedundantData/objects_w_no_val_nor_executed_nor_adhoc.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/PossiblyRedundantData/objects_w_no_validations.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/PossiblyRedundantData/objects_w_no_validations.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/SAPE_ne_FPE.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/SAPE_ne_FPE.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/overdue.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/overdue.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/same_day_visit.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/same_day_visit.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/threshold_empty.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/threshold_empty.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/unconsistent_coefficients.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/unconsistent_coefficients.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit/subsets/v22_ok.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subsets/v22_ok.tsv" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="fix_subset0__inconsistencies.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/cleaning/fix_subset0__inconsistencies.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="582">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
+              <folding>
+                <element signature="e#15#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scripts/cleaning/fix_subset0__inconsistencies.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1366" />
+    <option name="width" value="1600" />
+    <option name="height" value="1200" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dm-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dm-project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dm-project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dm-project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="subsets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dm-project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="subsets" type="462c0819:PsiDirectoryNode" />
+              <item name="PerformanceEvaluation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dm-project" type="462c0819:PsiDirectoryNode" />
+              <item name="notebooks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dm-project" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dm-project" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="cleaning" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="dm-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="fix_subset0__inconsistencies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dm-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/cleaning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/cleaning/fix_subset0__inconsistencies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fix_subset0__inconsistencies" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af4d4843-eef9-44b2-88c5-3d99e30441c6" name="Default" comment="" />
+      <created>1533896186929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533896186929</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1366" y="0" width="1600" height="1200" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32958803" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" x="0" y="0" width="350" height="1000" id="Documentation" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3226398" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32958803" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="7" visible="true" weight="0.3220974" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32116106" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24967825" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="SciView" order="4" visible="true" weight="0.75032175" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scripts/cleaning/fix_subset0__inconsistencies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#15#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/Untitled.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/01_clean_1_month.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/02_check_consistency_in_coefficients_validation.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/02_check_coefficient_values_consistency.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/02_extract_performance_evaluation_subsets.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/cleaning/fix_subset0__inconsistencies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="e#15#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

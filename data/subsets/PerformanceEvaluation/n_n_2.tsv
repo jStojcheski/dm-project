@@ -1,0 +1,11 @@
+XLS_RowNumber	CustomerID	Calendarday	month	PerformanceEvaluationPlanned	PerformanceEvaluationExecuted	PerformanceEvaluationAdHoc	TERRID	SAPECCSalesGroup	SAPECoeficient	APECoeficient	FPECoeficient	SAMEDAYVISIT	OVERDUE	UNDERDUE	OK	NOTOK	STATUS	OVERDUEDAYS
+36372	100003317	2017-08-25	8	 	 	2	Employee 51	Team 2	82.97		82.87200000000001	 	 	 	 	 	 	 
+36418	100003322	2017-06-29	6	 	 	2	Employee 51	Team 2	75.05		79.079	 	 	 	 	 	 	 
+40193	100003700	2017-07-28	7	 	 	2	Employee 53	Team 2	54.677		42.122	 	 	 	 	 	 	 
+48248	100004359	2017-06-27	6	 	 	2	Employee 61	Team 7	85.57		59.974	 	 	 	 	 	 	 
+78081	100008154	2017-06-15	6	 	 	2	Employee 61	Team 7	81.60300000000002		52.65	 	 	 	 	 	 	 
+92218	100011644	2017-06-28	6	 	 	2	Employee 37	Team 6				 	 	 	 	 	 	 
+93903	100012806	2017-12-29	12	 	 	2	Employee 57	Team 7	64.22		48.98	 	 	 	 	 	 	 
+111278	100021613	2017-06-28	6	 	 	2	Employee 27	Team 5	63.804		63.804	 	 	 	 	 	 	 
+116752	100022316	2017-11-24	11	 	 	2	Employee 51	Team 2	62.977		48.588	 	 	 	 	 	 	 
+130624	100023563	2017-11-24	11	 	 	2	Employee 42	Team 1	88.323		84.111	 	 	 	 	 	 	 
