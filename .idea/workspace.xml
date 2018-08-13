@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af4d4843-eef9-44b2-88c5-3d99e30441c6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/data/dataset/Spenser_1_7_subset0__fix_subset0__.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Spenser_1_7_subset0__fix_subset0__.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/subsets/.~lock.rows_with_no_match_fix_subset_00_.tsv#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dataset/Spenser_1_7_subset0__fix.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Spenser_1_7_subset0__fix.tsv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +17,7 @@
       <file leaf-file-name="fix_subset0__inconsistencies.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/cleaning/fix_subset0__inconsistencies.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
+            <state relative-caret-position="414">
               <caret line="77" selection-start-line="77" selection-end-line="77" />
               <folding>
                 <element signature="e#15#34#0" expanded="true" />
@@ -80,6 +80,13 @@
               <item name="dm-project" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="subsets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dm-project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="subsets" type="462c0819:PsiDirectoryNode" />
+              <item name="PerformanceEvaluation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
@@ -199,30 +206,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1366" y="0" width="1600" height="1200" extended-state="6" />
+    <frame x="1362" y="0" width="1448" height="904" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32958803" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" x="0" y="0" width="350" height="1000" id="Documentation" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.500625" side_tool="true" weight="0.30705774" />
+      <window_info anchor="right" x="0" y="0" width="312" height="704" id="Documentation" order="5" sideWeight="0.5009242" side_tool="true" weight="0.48958334" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3226398" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32958803" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3220974" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32116106" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24967825" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3152585" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3226398" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.499375" visible="true" weight="0.2970923" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24236111" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.75032175" />
+      <window_info anchor="right" id="SciView" order="4" sideWeight="0.4990758" weight="0.48958334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299725" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +239,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scripts/cleaning/fix_subset0__inconsistencies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="e#15#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/cleaning/fix_subset0__inconsistencies.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -279,7 +296,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/cleaning/fix_subset0__inconsistencies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
+        <state relative-caret-position="414">
           <caret line="77" selection-start-line="77" selection-end-line="77" />
           <folding>
             <element signature="e#15#34#0" expanded="true" />
