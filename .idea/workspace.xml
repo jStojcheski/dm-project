@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af4d4843-eef9-44b2-88c5-3d99e30441c6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/scripts/fixing/fix_nn1_leftovers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dataset/.~lock.Spenser_1_7_3_fixed_nnn_inconsistencies.tsv#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dataset/.~lock.Spenser_1_7_4_fixed_111_inconsistencies.tsv#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dataset/Spenser_1_7_5_fixed_11n_leftovers.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Spenser_1_7_5_fixed_11n_leftovers.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dataset/.~lock.Spenser_1_7_5_fixed_11n_leftovers.tsv#" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/fixing/fix_subset_11n_leftovers.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/fixing/fix_subset_11n_leftovers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,6 +17,7 @@
     <SUITE FILE_PATH="coverage/dm_project$fix_subset_11n_inconsistencies.coverage" NAME="fix_subset_11n_inconsistencies Coverage Results" MODIFIED="1534338452790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/fixing" />
     <SUITE FILE_PATH="coverage/dm_project$fix_subset_11n_leftovers.coverage" NAME="fix_subset_11n_leftovers Coverage Results" MODIFIED="1534763800399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/fixing" />
     <SUITE FILE_PATH="coverage/dm_project$fix_subset_111_inconsistencies.coverage" NAME="fix_subset_111_inconsistencies Coverage Results" MODIFIED="1534592573549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/fixing" />
+    <SUITE FILE_PATH="coverage/dm_project$fix_nn1_leftovers.coverage" NAME="fix_nn1_leftovers Coverage Results" MODIFIED="1534766683781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/fixing" />
     <SUITE FILE_PATH="coverage/dm_project$extract_performance_eval_subsets.coverage" NAME="extract_performance_eval_subsets Coverage Results" MODIFIED="1534345123364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/utils" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -39,27 +39,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="http" value="1" />
           <entry key="ipynb" value="4" />
-          <entry key="py" value="18" />
-          <entry key="tsv" value="5" />
+          <entry key="py" value="20" />
+          <entry key="tsv" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="HTTP Request" value="1" />
           <entry key="IPNB" value="4" />
-          <entry key="Python" value="18" />
-          <entry key="TSV" value="5" />
+          <entry key="Python" value="20" />
+          <entry key="TSV" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="2658" />
-          <entry key="py" value="6270" />
+          <entry key="py" value="6471" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="8928" />
+          <entry key="Python" value="9129" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -70,28 +72,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/fixing/fix_subset_11n_leftovers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-526">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="292">
+              <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
               <folding>
                 <element signature="e#390#409#0" expanded="true" />
-                <marker date="1534765437155" expanded="true" signature="476:623" ph="..." />
-                <marker date="1534765437155" expanded="true" signature="994:1435" ph="..." />
-                <marker date="1534765437155" expanded="true" signature="1647:2148" ph="..." />
-                <marker date="1534765437155" expanded="true" signature="2174:2826" ph="..." />
-                <marker date="1534765437155" expanded="true" signature="3041:3046" ph="..." />
+                <marker date="1534766537085" expanded="true" signature="508:655" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///opt/anaconda3/envs/spenser/lib/python3.6/site-packages/pandas/core/series.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/fixing/fix_nn1_leftovers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="764" selection-start-line="764" selection-end-line="764" />
+            <state relative-caret-position="569">
+              <caret line="98" column="10" lean-forward="true" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
+              <folding>
+                <element signature="e#424#443#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,6 +102,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTTP Request" />
         <option value="Python Script" />
       </list>
     </option>
@@ -118,6 +120,8 @@
         <option value="$PROJECT_DIR$/utils/extract_performance_eval_subsets.py" />
         <option value="$PROJECT_DIR$/scripts/utils/extract_performance_eval_subsets.py" />
         <option value="$PROJECT_DIR$/scripts/fixing/fix_subset_111_inconsistencies.py" />
+        <option value="$PROJECT_DIR$/scripts/fixing/as.http" />
+        <option value="$PROJECT_DIR$/scripts/fixing/fix_nn1_leftovers.py" />
         <option value="$PROJECT_DIR$/scripts/fixing/fix_subset_11n_leftovers.py" />
       </list>
     </option>
@@ -155,12 +159,6 @@
               <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="dm-project" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="dataset" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dm-project" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="subsets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -168,12 +166,7 @@
               <item name="dm-project" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="subsets" type="462c0819:PsiDirectoryNode" />
-              <item name="ProblematicDataInSpesner_1_7_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dm-project" type="462c0819:PsiDirectoryNode" />
-              <item name="orange_workflow" type="462c0819:PsiDirectoryNode" />
+              <item name="ProblematicDataInSpesner_1_7_6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
@@ -185,12 +178,6 @@
               <item name="dm-project" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
               <item name="fixing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dm-project" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,7 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fix_subset_11n_leftovers">
+  <component name="RunManager" selected="Python.fix_nn1_leftovers">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="dm-project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -266,6 +253,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/utils/extract_performance_eval_subsets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fix_nn1_leftovers" type="PythonConfigurationType" factoryName="Python">
+      <module name="dm-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/fixing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/fixing/fix_nn1_leftovers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -387,6 +393,7 @@
     <list>
       <item itemvalue="Python.fix_subset_111_inconsistencies" />
       <item itemvalue="Python.fix_subset_11n_leftovers" />
+      <item itemvalue="Python.fix_nn1_leftovers" />
       <item itemvalue="Python.fix_subset0__inconsistencies" />
       <item itemvalue="Python.fix_subset_11n_inconsistencies" />
       <item itemvalue="Python.simple" />
@@ -427,22 +434,22 @@
     <frame x="1366" y="0" width="1600" height="1200" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49953315" visible="true" weight="0.255" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49953315" visible="true" weight="0.255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5004669" side_tool="true" weight="0.34427285" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32619646" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33638024" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33638024" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35283363" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286648" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.499375" weight="0.23902895" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.499375" weight="0.23400366" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500625" side_tool="true" weight="0.3583181" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32814527" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.499375" weight="0.33180988" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.499375" weight="0.33089578" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -608,17 +615,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/fixing/as.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/fixing/fix_subset_11n_leftovers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-526">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="292">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
           <folding>
             <element signature="e#390#409#0" expanded="true" />
-            <marker date="1534765437155" expanded="true" signature="476:623" ph="..." />
-            <marker date="1534765437155" expanded="true" signature="994:1435" ph="..." />
-            <marker date="1534765437155" expanded="true" signature="1647:2148" ph="..." />
-            <marker date="1534765437155" expanded="true" signature="2174:2826" ph="..." />
-            <marker date="1534765437155" expanded="true" signature="3041:3046" ph="..." />
+            <marker date="1534766537085" expanded="true" signature="508:655" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/subsets/ProblematicDataInSpesner_1_7_6/nn1_unfixed_rows.tsv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/fixing/fix_nn1_leftovers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="98" column="10" lean-forward="true" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
+          <folding>
+            <element signature="e#424#443#0" expanded="true" />
           </folding>
         </state>
       </provider>
