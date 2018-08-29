@@ -8,7 +8,7 @@ import pandas as pd
 
 if __name__ == '__main__':
 
-    df = pd.read_csv('../../data/dataset/Spenser_1_7_3_fixed_nnn_inconsistencies.tsv', sep='\t')
+    df = pd.read_csv('../../data/dataset/Spenser_1_7_8_fixed_1n1_leftovers.tsv', sep='\t')
     df.index = pd.RangeIndex(start=2, stop=len(df) + 2)
     df.index.name = 'XLS_RowNumber'
 
@@ -24,4 +24,4 @@ if __name__ == '__main__':
         p = 'n' if p == ' ' else p
         e = 'n' if e == ' ' else e
         a = 'n' if a == ' ' else a
-        t.to_csv('../../data/subsets/PerformanceEvaluationOnSpenser_1_7_3/{}_{}_{}.tsv'.format(p, e, a), sep='\t')
+        t.to_csv('../../data/subsets/PerformanceEvaluationOnSpenser_1_7_8/{}_{}_{}.tsv'.format(p, e, a), sep='\t')
