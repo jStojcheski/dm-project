@@ -82,13 +82,13 @@ def fix_subset(subset_filename, subset_rows, df_rows):
 
 
 if __name__ == '__main__':
-    df = pd.read_csv('../../data/dataset/Spenser_1_7_8_fixed_1n1_leftovers.tsv', sep='\t')
-    list_of_subsets = list(os.walk('../../data/subsets/PerformanceEvaluationOnSpenser_1_7_8'))[0][2]
+    df = pd.read_csv('../../data/dataset/Spenser_1_7_9_split_same_day_visit_tuples.tsv', sep='\t')
+    list_of_subsets = list(os.walk('../../data/subsets/PerformanceEvaluationOnSpenser_1_7_9'))[0][2]
 
     df_rows = [row[1] for row in df.iterrows()]
 
     for subset_filename in list_of_subsets:
-        subset_path = os.path.join('../../data/subsets/PerformanceEvaluationOnSpenser_1_7_8', subset_filename)
+        subset_path = os.path.join('../../data/subsets/PerformanceEvaluationOnSpenser_1_7_9', subset_filename)
         df_subset = pd.read_csv(subset_path, sep='\t')
         subset_rows = [row[1] for row in df_subset.iterrows()]
         fix_subset(subset_filename, subset_rows, df_rows)

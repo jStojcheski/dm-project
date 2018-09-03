@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af4d4843-eef9-44b2-88c5-3d99e30441c6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/scripts/(re)formatting/split_same_day_visit_tuples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dataset/.~lock.Spenser_1_8_new_format_on_PE_markers.tsv#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dataset/Spenser_1_8_new_format_on_PE_markers.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/Spenser_1_8_new_format_on_PE_markers.tsv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/(re)formatting/format_PE_Markers.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/(re)formatting/format_PE_Markers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/fixing/fix_1n1_leftovers.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/fixing/fix_1n1_leftovers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/utils/extract_performance_eval_subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/utils/extract_performance_eval_subsets.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,14 +22,15 @@
     <SUITE FILE_PATH="coverage/dm_project$fix_subset_111_inconsistencies.coverage" NAME="fix_subset_111_inconsistencies Coverage Results" MODIFIED="1534592573549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/fixing" />
     <SUITE FILE_PATH="coverage/dm_project$fix_nn1_leftovers.coverage" NAME="fix_nn1_leftovers Coverage Results" MODIFIED="1534766683781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/fixing" />
     <SUITE FILE_PATH="coverage/dm_project$fix_1n1_leftovers.coverage" NAME="fix_1n1_leftovers Coverage Results" MODIFIED="1535557990111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/fixing" />
-    <SUITE FILE_PATH="coverage/dm_project$format_PE_Markers.coverage" NAME="format_PE_Markers Coverage Results" MODIFIED="1535565528259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/(re)formatting" />
-    <SUITE FILE_PATH="coverage/dm_project$extract_performance_eval_subsets.coverage" NAME="extract_performance_eval_subsets Coverage Results" MODIFIED="1535565775979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/utils" />
+    <SUITE FILE_PATH="coverage/dm_project$format_PE_Markers.coverage" NAME="format_PE_Markers Coverage Results" MODIFIED="1535976465405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/(re)formatting" />
+    <SUITE FILE_PATH="coverage/dm_project$extract_performance_eval_subsets.coverage" NAME="extract_performance_eval_subsets Coverage Results" MODIFIED="1535975807704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/utils" />
+    <SUITE FILE_PATH="coverage/dm_project$split_same_day_visit_tuples.coverage" NAME="split_same_day_visit_tuples Coverage Results" MODIFIED="1535972209269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/(re)formatting" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="750267075">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -34,45 +38,47 @@
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.40" value="1" />
-          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.41" value="2" />
+          <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="http" value="1" />
           <entry key="ipynb" value="4" />
-          <entry key="py" value="36" />
-          <entry key="tsv" value="9" />
+          <entry key="py" value="39" />
+          <entry key="tsv" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTTP Request" value="1" />
           <entry key="IPNB" value="4" />
-          <entry key="Python" value="36" />
-          <entry key="TSV" value="9" />
+          <entry key="Python" value="39" />
+          <entry key="TSV" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="3509" />
+          <entry key="Python Console" value="4376" />
           <entry key="dummy" value="7" />
-          <entry key="py" value="10041" />
+          <entry key="py" value="12059" />
           <entry key="tsv" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="13550" />
+          <entry key="Python" value="16435" />
           <entry key="TSV" value="1" />
         </counts>
       </usages-collector>
@@ -84,25 +90,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/(re)formatting/format_PE_Markers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            <state relative-caret-position="382">
+              <caret line="91" column="54" selection-start-line="91" selection-start-column="54" selection-end-line="91" selection-end-column="54" />
               <folding>
                 <element signature="e#270#279#0" expanded="true" />
-                <marker date="1535565528189" expanded="true" signature="624:1772" ph="..." />
-                <marker date="1535565528189" expanded="true" signature="1826:2379" ph="..." />
+                <marker date="1535976293468" expanded="true" signature="624:1772" ph="..." />
+                <marker date="1535976293468" expanded="true" signature="1826:2379" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scripts/utils/extract_performance_eval_subsets.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/(re)formatting/split_same_day_visit_tuples.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+            <state relative-caret-position="517">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1535972240468" expanded="true" signature="683:927" ph="..." />
+                <marker date="1535972240468" expanded="true" signature="1341:1443" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,8 +148,9 @@
         <option value="$PROJECT_DIR$/scripts/formatPEMarkers.py" />
         <option value="$PROJECT_DIR$/scripts/format_PE_Markers.py" />
         <option value="$PROJECT_DIR$/scripts/fixing/fix_1n1_leftovers.py" />
-        <option value="$PROJECT_DIR$/scripts/(re)formatting/format_PE_Markers.py" />
+        <option value="$PROJECT_DIR$/scripts/(re)formatting/split_same_day_visit_tuples.py" />
         <option value="$PROJECT_DIR$/scripts/utils/extract_performance_eval_subsets.py" />
+        <option value="$PROJECT_DIR$/scripts/(re)formatting/format_PE_Markers.py" />
       </list>
     </option>
   </component>
@@ -149,17 +161,15 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1227" />
-    <option name="y" value="85" />
-    <option name="width" value="1348" />
-    <option name="height" value="729" />
+    <option name="x" value="1362" />
+    <option name="width" value="1448" />
+    <option name="height" value="904" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,12 +181,6 @@
               <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="dm-project" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dm-project" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="dataset" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dm-project" type="b2602c69:ProjectViewProjectNode" />
@@ -205,6 +209,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,14 +229,15 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/dataset" />
       <recent name="$PROJECT_DIR$/scripts/(re)formatting" />
       <recent name="$PROJECT_DIR$/scripts" />
       <recent name="$PROJECT_DIR$/data/subsets/PerformanceEvaluationOnSpenser_1_7_1" />
       <recent name="$PROJECT_DIR$/data" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/scripts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -246,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.extract_performance_eval_subsets">
+  <component name="RunManager" selected="Python.format_PE_Markers">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="dm-project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="extract_performance_eval_subsets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="extract_performance_eval_subsets" type="PythonConfigurationType" factoryName="Python">
       <module name="dm-project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -405,6 +411,9 @@
       <module name="dm-project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/(re)formatting" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -442,22 +451,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="split_same_day_visit_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dm-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/(re)formatting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/(re)formatting/split_same_day_visit_tuples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.fix_subset_111_inconsistencies" />
       <item itemvalue="Python.fix_subset_11n_leftovers" />
       <item itemvalue="Python.fix_nn1_leftovers" />
       <item itemvalue="Python.fix_1n1_leftovers" />
+      <item itemvalue="Python.extract_performance_eval_subsets" />
       <item itemvalue="Python.fix_subset_11n_inconsistencies" />
       <item itemvalue="Python.simple" />
-      <item itemvalue="Python.extract_performance_eval_subsets" />
       <item itemvalue="Python.format_11n_unfixed_rows" />
       <item itemvalue="Python.format_PE_Markers" />
+      <item itemvalue="Python.split_same_day_visit_tuples" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.extract_performance_eval_subsets" />
         <item itemvalue="Python.format_PE_Markers" />
-        <item itemvalue="Python.fix_1n1_leftovers" />
+        <item itemvalue="Python.split_same_day_visit_tuples" />
         <item itemvalue="Python.format_11n_unfixed_rows" />
         <item itemvalue="Python.fix_subset_11n_inconsistencies" />
       </list>
@@ -486,31 +514,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1366" y="0" width="1600" height="1200" extended-state="6" />
-    <editor active="true" />
+    <frame x="1362" y="0" width="1448" height="904" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49953315" visible="true" weight="0.268125" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49953315" visible="true" weight="0.27986112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5004669" side_tool="true" weight="0.34427285" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32541132" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34095064" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3683528" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35283363" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286648" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.499375" weight="0.2285192" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.499375" visible="true" weight="0.22040302" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500625" side_tool="true" weight="0.3583181" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32814527" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.499375" weight="0.29038283" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.499375" weight="0.24433249" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" x="1444" y="162" width="1215" height="419" id="SciView" order="4" sideWeight="0.4990758" weight="0.7290862" />
-      <window_info anchor="right" x="0" y="0" width="350" height="1000" id="Documentation" order="5" sideWeight="0.5009242" side_tool="true" weight="0.150625" />
+      <window_info anchor="right" x="1444" y="162" width="1215" height="419" id="SciView" order="4" sideWeight="0.49622166" weight="0.33472222" />
+      <window_info anchor="right" x="0" y="0" width="350" height="1000" id="Documentation" order="5" sideWeight="0.50377834" side_tool="true" weight="0.7270833" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -662,10 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#422#441#0" expanded="true" />
-            <marker date="1534766537085" expanded="true" signature="508:655" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -683,11 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" selection-start-line="12" selection-end-line="13" selection-end-column="58" />
-          <folding>
-            <marker date="1534768371825" expanded="true" signature="214:219" ph="..." />
-            <marker date="1534768371825" expanded="true" signature="214:526" ph="..." />
-            <marker date="1534768371825" expanded="true" signature="214:882" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -702,28 +720,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dataset/Spenser_1_8_new_format_on_PE_markers.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1995">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/utils/extract_performance_eval_subsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/(re)formatting/split_same_day_visit_tuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
           <folding>
-            <marker date="1535560224329" expanded="true" signature="645:648" ph="..." />
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1535972240468" expanded="true" signature="683:927" ph="..." />
+            <marker date="1535972240468" expanded="true" signature="1341:1443" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/(re)formatting/format_PE_Markers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        <state relative-caret-position="382">
+          <caret line="91" column="54" selection-start-line="91" selection-start-column="54" selection-end-line="91" selection-end-column="54" />
           <folding>
             <element signature="e#270#279#0" expanded="true" />
-            <marker date="1535565528189" expanded="true" signature="624:1772" ph="..." />
-            <marker date="1535565528189" expanded="true" signature="1826:2379" ph="..." />
+            <marker date="1535976293468" expanded="true" signature="624:1772" ph="..." />
+            <marker date="1535976293468" expanded="true" signature="1826:2379" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/utils/extract_performance_eval_subsets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
         </state>
       </provider>
     </entry>
