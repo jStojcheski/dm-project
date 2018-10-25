@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540280864879.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D0A1A125",
+    "lastKnownWriteTime" : 1540313666,
+    "last_content_update" : 1540313666508,
+    "path" : "E:/R_projects/DM_project/DM_ts_model.R",
+    "project_path" : "DM_ts_model.R",
+    "properties" : {
+        "cursorPosition" : "71,52",
+        "scrollLine" : "44",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
